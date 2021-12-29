@@ -1,4 +1,4 @@
-## Hi. My name is Shashank Vishwanath Ra👋
+## Hi. My name is Shashank Vishwanath Ray👋
 
 <!--
 **shashankvray/shashankvray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
