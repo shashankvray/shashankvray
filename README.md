@@ -6,9 +6,8 @@
 
 - 🔭 I'm currently working as a Software Engineer
 - 🌱 I’m interested in Machine Learning, Computer Vision
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for help with GANs
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact:  I love watching real life stories of geeks (Example: The Imitation Game)
+- ⚡ Fun fact:  I love watching real life stories of profound geeks (Example: The Imitation Game)
 - 📫 How to reach me : https://www.linkedin.com/in/shashankvray/
