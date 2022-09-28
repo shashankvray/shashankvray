@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for help with GANs
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact:  I love watching real life stories of profound geeks (Example: The Imitation Game)
+- ⚡ Fun fact:  I love watching real life stories of profound geeks (Example: The Imitation Game, The Social Network)
 - 📫 How to reach me : https://www.linkedin.com/in/shashankvray/
