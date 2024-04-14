@@ -4,8 +4,8 @@
 **shashankvray/shashankvray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working as a Software Engineer
-- 🌱 I’m interested in Machine Learning, Computer Vision
+- 🔭 I'm currently working as a Data Scientist 
+- 🌱 I’m interested in Algorithms and Machine Learning
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for help with GANs
 - 😄 Pronouns: He/His/Him
